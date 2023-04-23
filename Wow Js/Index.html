@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/libs/animate.css">
+    <link rel="stylesheet" href="css/site.css">
+
+    <style>
+        .wjs{
+            animation-iteration-count: infinite;
+            height: 60px;
+            width: 400px;
+            background-color: yellow;
+            color: red;
+            text-align: center;
+            text-transform: uppercase;
+            font-size: 50px;
+            overflow: hidden;
+            margin: auto;
+            margin-top: 50px;
+        }
+    </style>
+</head>
+<body>
+    <div class="wow bounceInUp wjs">
+        First Wow Js
+    </div>
+    <div class="wow flipInX center wjs">
+        Second Wow Js
+    </div>
+    <div class="wow pulse wjs">
+        Third Wow Js
+    </div>
+    <div class="wow lightSpeedIn wjs">
+        Fourth Wow Js
+    </div>
+    <div class="wow flip wjs">
+        Fifth Wow Js
+    </div>
+    <script src="dist/wow.js"></script>
+    <script>
+    new WOW().init();
+    </script>
+</body>
+</html>

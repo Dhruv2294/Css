@@ -1,0 +1,107 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.nav{
+    height: 30px;
+    width: auto;
+    border: 2px solid black;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+}
+.fa-clock{
+    font-size: 18px;
+    color: white;
+    text-align: left;
+    color: burlywood;
+}
+.navbr{
+    color: burlywood;
+    font-family:"Roboto";
+}
+.white{
+    color: white;
+    font-family:"Roboto";
+}
+.fa-facebook-f{
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    padding-right: 20px;
+}
+.fa-twitter{
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    padding-right: 20px;
+}
+.fa-instagram{
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    padding-right: 20px;
+}
+.fa-youtube{
+    text-align: center;
+    font-size: 15px;
+    color: white;
+}
+.fa-location{
+    font-size: 15px;
+    color: burlywood;
+}
+.hrs{
+    margin-left: 20px;
+}
+.loc{
+    margin-right: 20px;
+}
+.logo{
+    height: 60px;
+    background-color: rgb(66, 65, 65);
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+img{
+    height: 35px;
+    width: auto;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.fa-angle-down{
+    color: white;
+    font-size: 15px;
+}
+.menu{
+    padding-top: 18px; 
+}
+.a1{
+    color: white;
+    font-family: "Roboto";
+    font-size: 14px;
+    padding-left: 40px;
+}
+.btn{
+    width: 120px;
+    height: 40px;
+    border: none;
+    border-radius: 8px;
+    float: right;
+    text-align: center;
+    background-color: burlywood;
+    color: white;
+    font-family: Roboto;
+    margin-right: 18px;
+    margin-top: 9px;
+}
+.btn:hover{
+    background-color: white;
+    color: burlywood;
+    transition-property: width;
+    transition-duration: 3s;
+    transition-timing-function: linear;
+    transition-delay: 2s;
+}

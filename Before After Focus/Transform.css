@@ -1,0 +1,18 @@
+p::after{
+    content: "HELLO";
+    color: blue;
+    background-color: lightgreen;
+    font-size: 30px;
+}
+input.btn:hover{
+    background-color: aqua;
+}
+input:focus{
+    background-color: lightseagreen;
+}
+p::before{
+    content: "HELLO";
+    color: blue;
+    background-color: lightgreen;
+    font-size: 30px;
+}

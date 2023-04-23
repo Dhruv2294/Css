@@ -1,0 +1,18 @@
+#name:focus{
+    background-color: lightgray;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.btnsave:hover{
+    border: 2px dotted wheat;
+    border-radius: 8px;
+}
+.btnsave:hover::after{
+    font-family: "Material Icons";
+    content: "face";
+    position: relative;
+    top: 3px;
+    left: 35-px;
+    font-size: 20px;
+    text-align: center;
+}

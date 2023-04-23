@@ -1,0 +1,12 @@
+img{
+    height:1300px ;
+    width: 800px;
+}
+.mask{
+    mask-image: url('bg1.png');
+    -webkit-mask-image: url('bg1.png');
+    mask-size: 50%;
+    -webkit-mask-size: 50%;
+    mask-repeat: no-repeat;
+    -webkit-mask-repeat: no-repeat;
+}

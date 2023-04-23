@@ -1,0 +1,62 @@
+body{
+    background-color: #a5e7cb;
+}
+.d1{
+    background-color: darkgreen;
+    height: 100px;
+    line-height: 120px;
+    font-size: 40px;
+    
+}
+.fa-circle-user{
+    color: white;
+    font-size: 50px;
+    text-indent: 100px;
+}
+.d2{
+    font-family:"Passion One";
+    font-size: 50px;
+    text-indent: 100px;
+    color: white;
+}
+.y{
+    
+    height: 50px;
+    color: gray;
+    line-height: 70px;
+    text-align: center;
+    font-size: 20px ;
+    font-family: "Jura";
+    text-decoration: underline dotted;
+}
+.h{
+    text-align: left;
+    text-indent: 40px;
+    font-family: "Itim";
+    font-size: 18px;
+    
+}
+.fa-clock{
+    text-indent: 35px;
+    font-size: 15px;
+    color: gray;
+    height: 20px;
+}
+.t{
+    text-decoration: overline dashed;
+    color: gray;
+}
+.d{
+    text-align: right;
+    
+    font-family: "Itim";
+    font-size: 18px;
+}
+.p{
+    text-align: right;
+    text-decoration: overline dashed;
+    color: gray;
+}
+.d3{
+    text-align: right;
+}

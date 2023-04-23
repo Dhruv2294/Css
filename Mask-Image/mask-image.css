@@ -1,0 +1,19 @@
+img{
+    height: 500px;
+    width: 1400px;
+}
+.masking{
+    margin: 10px;
+    padding: 20px;
+    border: 20px solid yellow ;
+    mask-image: url('logo.png');
+    -webkit-mask-image: url('logo.png');
+    mask-size: 30%;
+    -webkit-mask-size: 30%;
+    mask-repeat: repeat;
+    -webkit-mask-repeat: repeat;
+    mask-position: center;
+    -webkit-mask-position: center;
+    mask-origin: border-box;
+    -webkit-mask-origin: border-box;   
+}

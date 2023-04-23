@@ -1,0 +1,325 @@
+body{
+    background-color: black;
+}
+.t0{
+    height: 400px;
+    width: 70%;
+    border: 2px solid ;
+    text-align: center;
+    margin-left: 250px;
+    background-color: #128A8A;
+    border-bottom: 50px;
+    margin-bottom: 20px;
+}
+.t1{
+    font-family: 'Indie Flower';
+    color: #B3AD94;
+    text-align: center;
+    font-size: 40px;
+    border-bottom: 15px solid #FDEDCE;
+}
+.t2{
+    font-family: 'Pacifico';
+    margin-left: 10px;
+    margin-right: 10px;
+    color: #391119;    
+}
+.t{
+    height: 350px;
+    width: 70%;
+    border: 2px solid ;
+    text-align: center;
+    margin-left: 250px;
+    background-image: linear-gradient(#18213B,#124E50);
+    margin-bottom: 20px;
+}
+.t3{
+    font-family: 'Syne Mono';
+    color: #B3AD94;
+    text-align: center;
+    font-size: 40px;
+    border-bottom: 10px solid #FDEDCE
+}
+.t4{
+    font-family: 'Patrick Hand';
+    margin-left: 10px;
+    margin-right: 10px;
+    color: #DB849A;
+    font-size: 18px;
+}
+.t5{
+    height:400px;
+    width: 70%;
+    border: 2px solid ;
+    text-align: center;
+    margin-left: 250px;
+    background-color: white;
+    background-image: url("taj.jpg");
+    background-position: center;    
+    background-repeat: no-repeat;
+    background-size: 1100px;
+    margin-bottom: 20px;
+    
+}
+.t6{
+    height: 180px;
+    width: 300px;
+    margin-left: 20px;
+    border: 5px dashed white;
+    text-align: center;
+    margin-top: 130px;
+    float: right;
+    margin-right: 20px; 
+    color: red;
+}
+.t7{
+    height: 180px;
+    width: 300px;
+    margin-left: 20px;
+    border: 5px solid white;
+    text-align: center;
+    margin-top: 130px;
+    color: red;
+    float: left;   
+}
+.t8{
+    height: 180px;
+    width: 300px;
+    margin-left: 20px;
+    border: 5px double black;
+    text-align: center;
+    margin-top: 130px;
+    float: right; 
+    color: red;
+    margin-right: 20px;  
+}
+.t9{
+    height:400px;
+    width: 70%;
+    border: 2px solid ;
+    text-align: center;
+    margin-left: 250px;
+    background-color: white;
+    background-image: url("tower.jpg");
+    background-size: 70% 100%;
+   
+    margin-bottom: 20px;
+}
+.t10{
+    height: 180px;
+    width: 300px;
+    margin-left: 20px;
+    border: 5px ridge rgb(134, 2, 2);
+    text-align: center;
+    margin-top: 130px;
+    float: right;
+    margin-right: 20px; 
+    color: red;
+}
+.t11{
+    height: 180px;
+    width: 300px;
+    margin-left: 20px;
+    border: 5px ridge cornsilk;
+    text-align: center;
+    margin-top: 130px;
+    color: red;
+    float: left;   
+}
+.t12{
+    height: 180px;
+    width: 300px;
+    margin-left: 20px;
+    border: 5px dashed black;
+    text-align: center;
+    margin-top: 130px;
+    float: right; 
+    color: red;
+    margin-right: 20px;  
+}
+.t13{
+    height:400px;
+    width: 70%;
+    border: 2px solid ;
+    text-align: center;
+    margin-left: 250px;
+    background-color: white;
+    background-image: url("palace.jpg");
+    background-repeat: no-repeat;
+    background-size: 1100px;
+    background-position: center;
+    margin-bottom: 20px;
+    
+}
+.t14{
+    height: 180px;
+    width: 300px;
+    margin-left: 20px;
+    border: 5px dashed white;
+    text-align: center;
+    margin-top: 130px;
+    float: right;
+    margin-right: 20px; 
+    color: red;
+}
+.t15{
+    height: 180px;
+    width: 300px;
+    margin-left: 20px;
+    border: 5px solid white;
+    text-align: center;
+    margin-top: 130px;
+    color: red;
+    float: left;   
+}
+.t16{
+    height: 180px;
+    width: 300px;
+    margin-left: 20px;
+    border: 5px double black;
+    text-align: center;
+    margin-top: 130px;
+    float: right; 
+    color: red;
+    margin-right: 20px;  
+}
+
+.t21{
+    height:400px;
+    width: 70%;
+    border: 2px solid ;
+    text-align: center;
+    margin-left: 250px;
+    background-color: white;
+    background-image: url("wall.jpg");
+    background-attachment: fixed;
+    margin-bottom: 20px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 250% 300%;
+}
+.t22{
+    height: 180px;
+    width: 300px;
+    margin-left: 20px;
+    border: 5px ridge rgb(134, 2, 2);
+    text-align: center;
+    margin-top: 130px;
+    float: right;
+    margin-right: 20px; 
+    color: red;
+}
+.t23{
+    height: 180px;
+    width: 300px;
+    margin-left: 20px;
+    border: 5px ridge cornsilk;
+    text-align: center;
+    margin-top: 130px;
+    color: red;
+    float: left;   
+}
+.t24{
+    height: 180px;
+    width: 300px;
+    margin-left: 20px;
+    border: 5px dashed black;
+    text-align: center;
+    margin-top: 130px;
+    float: right; 
+    color: red;
+    margin-right: 20px;  
+}
+.t25{
+    height:400px;
+    width: 70%;
+    border: 2px solid ;
+    text-align: center;
+    margin-left: 250px;
+    background-color: white;
+    background-image: url("castel.jpg");
+    background-repeat: no-repeat;
+    background-size: 1100px;
+    
+    background-position: center;
+    margin-bottom: 20px;
+    
+}
+.t26{
+    height: 180px;
+    width: 300px;
+    margin-left: 20px;
+    border: 5px dashed white;
+    text-align: center;
+    margin-top: 130px;
+    float: right;
+    margin-right: 20px; 
+    color: red;
+}
+.t27{
+    height: 180px;
+    width: 300px;
+    margin-left: 20px;
+    border: 5px solid white;
+    text-align: center;
+    margin-top: 130px;
+    color: red;
+    float: left;   
+}
+.t28{
+    height: 180px;
+    width: 300px;
+    margin-left: 20px;
+    border: 5px double black;
+    text-align: center;
+    margin-top: 130px;
+    float: right; 
+    color: red;
+    margin-right: 20px;  
+}
+.t29{
+    height:400px;
+    width: 70%;
+    border: 2px solid ;
+    text-align: center;
+    margin-left: 250px;
+    background-color: white;
+    background-image: url("last.jpg");
+    margin-bottom: 20px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-blend-mode:multiply;
+    background-size: 100%;
+}
+.t30{
+    height: 180px;
+    width: 300px;
+    margin-left: 20px;
+    border: 5px ridge rgb(157, 5, 5);
+    text-align: center;
+    margin-top: 130px;
+    float: right;
+    margin-right: 20px; 
+    color: red;
+}
+.t31{
+    height: 180px;
+    width: 300px;
+    margin-left: 20px;
+    border: 5px ridge cornsilk;
+    text-align: center;
+    margin-top: 130px;
+    color: red;
+    float: left;   
+}
+.t32{
+    height: 180px;
+    width: 300px;
+    margin-left: 20px;
+    border: 5px dashed black;
+    text-align: center;
+    margin-top: 130px;
+    float: right; 
+    color: red;
+    margin-right: 20px;  
+}

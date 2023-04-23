@@ -1,0 +1,16 @@
+.main{
+    height: 500px;
+    width: 800px;
+    background-color: aquamarine;
+    border: 5px double bisque;
+    display: flex;
+    flex-flow: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.box{
+    height: 80px;
+    width: 80px;
+    border: 2px dashed beige;
+    background-color: azure;
+}

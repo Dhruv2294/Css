@@ -1,0 +1,127 @@
+*{
+    padding: 0% 0%;
+    margin: 0% 0%;
+}
+.d1{
+    height: 25px;
+    width: auto;
+    font-size: 14px;
+    color: #b99272;
+    background-color: #090c0f;
+    padding: 5px 5px;
+    font-family: "Roboto";
+}
+.d2{
+    color: white;
+}
+.fa-facebook-f{
+    color: white;
+    margin-left: 320px;
+    margin-right: 10px;
+    position: relative;
+    display: inline-block;
+    margin-top: 5px;
+}
+.fa-instagram{
+    color: white;
+    margin-left: 20px;
+    margin-right: 10px;
+    position: relative;
+    display: inline-block;
+}
+.fa-youtube{
+    color: white;
+    margin-left: 20px;
+    margin-right: 10px;
+    position: relative;
+    display: inline-block;
+}
+.fa-twitter{
+    color: white;
+    margin-left: 20px;
+    margin-right: 10px;
+    position: relative;
+    display: inline-block;
+}
+.fa-location-dot{
+    color: #b99272;
+    margin-left: 270px;
+    position: absolute;
+    display: inline-block;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+.d4{
+    color: white;
+    margin-left: 0px;
+}
+.d0{
+    margin-left: 290px;
+}
+.d4{
+    background-color: rgb(21,20,20);
+}
+.d5{
+    color: #b99272;
+    height: 30px;
+    width: 90px;
+    padding-top: 5px;
+    padding-left: 25px;
+}
+.d6{
+    color: white;
+    font-family: "Roboto";
+    margin-left: 350px;
+    margin-bottom: 20px;
+    position: relative;
+    display: inline-block;
+    font-size: 14px;
+}
+.d6:hover{
+    color: #b99272;
+}
+.d7:hover{
+    color: #b99272;
+}
+.d7{
+    color: white;
+    font-family: "Roboto";
+    margin-left: 20px;
+    position: relative;
+    display: inline-block;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+.fa-angle-down{
+    color: white;
+    font-size: 15px;
+}
+.fa-angle-down:hover{
+    color: #b99272;
+}
+.btn1{
+    height: 35px;
+    width: 120px;
+    border: none;
+    margin-bottom: 35px;
+    border-radius: 8px;
+    float: right;
+    text-align: center;
+    font-size: 15px;
+    font-family: "Roboto";
+    background-color: #b99272;
+    color: white;
+    margin-right: 30px;
+    margin-left: 50px;
+    margin-top: 8px;
+}
+.btn1:hover{
+    background-color: white;
+    color: #b99272;
+}
+.t1{
+    height: 50px;
+    width: auto;
+    background-color: rgb(40, 40, 40);
+    font-family: "Roboto";
+}

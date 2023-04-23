@@ -1,0 +1,17 @@
+.main{
+    height: 500px;
+    width: 1100px;
+    border: 1px solid blue;
+    background-color: lightblue;
+    display: flex;
+     /* flex-direction: row; */
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-around;
+}
+.box{
+    height: 80px;
+    width: 80px;
+    border: 2px ridge black;
+    background-color: teal;
+}
